@@ -18,9 +18,9 @@ This page provides access to a self-paced online Quercus course that focuses on 
 
 **Course Description:**
 
-This intermediate-level R course gives users a gentle and thorough introduction to reshaping data, the data manipulation package DPLYR, if-statements, for loops, functions, and the popular graphing package GGPLOT2. This course is suitable for users who have used R before. For users interested in specific topics, videos can also be watched [here](https://mdl.library.utoronto.ca/technology/tutorials/intermediate-r-course).
+This intermediate-level R course gives users a gentle and thorough introduction to reshaping data, the data manipulation package DPLYR, if-statements, for loops, functions, and the popular graphing package GGPLOT2. This course is suitable for users who have used R before. For users interested in specific topics, videos can also be watched [here](https://mdlutoronto.github.io/r-course-intermediate/).
 
-Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://mdl.library.utoronto.ca/about/contact-form).
+Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://library.utoronto.ca/contact-us/data-maps).
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/GCPRD3)
 
